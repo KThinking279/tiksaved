@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/tiksaved/static/css/main.f51d5156.css",
-    "main.js": "/tiksaved/static/js/main.09ea4203.js",
+    "main.js": "/tiksaved/static/js/main.318ba68c.js",
     "static/js/67.b2b98cdf.chunk.js": "/tiksaved/static/js/67.b2b98cdf.chunk.js",
     "static/js/909.7e89a254.chunk.js": "/tiksaved/static/js/909.7e89a254.chunk.js",
-    "static/js/916.61ad75c5.chunk.js": "/tiksaved/static/js/916.61ad75c5.chunk.js",
+    "static/js/336.0805ac90.chunk.js": "/tiksaved/static/js/336.0805ac90.chunk.js",
     "static/js/137.25bd876a.chunk.js": "/tiksaved/static/js/137.25bd876a.chunk.js",
-    "static/js/298.3e1a59cf.chunk.js": "/tiksaved/static/js/298.3e1a59cf.chunk.js",
+    "static/js/298.cf21518f.chunk.js": "/tiksaved/static/js/298.cf21518f.chunk.js",
     "static/js/44.bee82483.chunk.js": "/tiksaved/static/js/44.bee82483.chunk.js",
     "static/js/206.1e1f32cc.chunk.js": "/tiksaved/static/js/206.1e1f32cc.chunk.js",
-    "static/js/942.7435dedb.chunk.js": "/tiksaved/static/js/942.7435dedb.chunk.js",
+    "static/js/833.b6017aaa.chunk.js": "/tiksaved/static/js/833.b6017aaa.chunk.js",
     "static/media/coin.png": "/tiksaved/static/media/coin.84cf06a861a4cfb9ad42.png",
     "static/media/logo.png": "/tiksaved/static/media/logo.4b8f4a073a88a7971cc1.png",
     "index.html": "/tiksaved/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.09ea4203.js"
+    "static/js/main.318ba68c.js"
   ]
 }
